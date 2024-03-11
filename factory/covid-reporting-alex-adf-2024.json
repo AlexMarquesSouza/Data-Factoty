@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-alex-adf-2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af8e1151-e87f-44c0-9ee6-0f906cf1c155",
+		"tenantId": "2c2b3929-57ba-4b91-a701-4d261fc00b14"
+	}
+}
